@@ -2,9 +2,6 @@
 
 
 
-
----
-
  1. TESTING OVERVIEW
 
  1.1 Purpose
@@ -870,13 +867,6 @@ The application meets all project requirements specified in the CP213 course pro
 
  Recommendations:
 The application is production-ready for its intended scope. Future enhancements could include data persistence, reporting features, and advanced filtering options, but these are beyond the current project requirements.
-
----
-
-Tested and Approved by:  
-Arhan Supramanyam  
-GUI Development & Testing Lead  
-Date: November 23, 2025
 
 ---
 
