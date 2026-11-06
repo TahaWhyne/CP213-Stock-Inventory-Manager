@@ -1,10 +1,7 @@
  INVENTORY MANAGER - COMPREHENSIVE TESTING REPORT
 
-Project: Inventory Manager System  
-Tester: Arhan Supramanyam  
-Student ID: 169100507 
-Course: CP213 - Object-Oriented Programming  
-Date: November 23, 2025  
+
+
 
 ---
 
