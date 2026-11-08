@@ -1,0 +1,9 @@
+target/
+bin/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+.classpath
+.project
+.settings/
