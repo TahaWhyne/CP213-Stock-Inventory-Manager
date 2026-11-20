@@ -1,22 +1,4 @@
-# Inventory Manager
 
-Existing Java Swing inventory application extended with SQLite persistence and a small REST API. The original product hierarchy and Swing interface are retained.
-
-## Stack
-- Java 17
-- Swing for the desktop interface
-- SQLite with JDBC for persistent storage
-- Gson for JSON serialization
-- JDK `HttpServer` for REST endpoints (no web framework)
-- JUnit 5 for automated tests
-
-## Project structure
-- `inventory/InventoryManagerGUI.java` - original Swing interface
-- `inventory/InventoryManager.java` - inventory business logic; delegates persistence
-- `inventory/SqliteProductRepository.java` - SQLite CRUD, filtering, and atomic stock adjustments
-- `inventory/api/InventoryApiServer.java` - localhost REST API
-- `inventory/api/ProductMapper.java` and `ProductDto.java` - JSON/API mapping
-- `src/test/java` - repository, manager, and API tests
 
 ## Open in Eclipse
 Import using **File > Import > Maven > Existing Maven Projects**, then select this directory. Let Maven resolve the dependencies from `pom.xml`.
